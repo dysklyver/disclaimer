@@ -30,9 +30,9 @@ I disclaims all responsibility for any loss or damage which any person may suffe
 
 ## Ownership of content
 
-The materials displayed on this post, including without limitation all information, text, materials, graphics, software, advertisements, names, logos and trademarks (if any) on this site (“Content”) are protected by copyright, trade mark and other intellectual property laws unless expressly indicated otherwise.
+The materials displayed on this post, including without limitation all information, text, materials, graphics, software, advertisements, names, logos and trademarks (if any) on this post (“Content”) are protected by copyright, trade mark and other intellectual property laws unless expressly indicated otherwise.
 
-You may view this site using your web browser and save an electronic copy, or print out a copy, of parts of this web site solely for your own information, research or study, but only if you keep all Content intact and in the same form as presented on this site (including without limitation all copyright, trade mark and other proprietary notices and all advertisements).
+You may view this site using your web browser and save an electronic copy, or print out a copy, of parts of this post solely for your own information, research or study, but only if you keep all Content intact and in the same form as presented on this site (including without limitation all copyright, trade mark and other proprietary notices and all advertisements).
 
 You must not modify, copy, reproduce, republish, frame, upload to a third party, post, transmit or distribute this content in any way except as expressly authorised in writing by myself.
 
