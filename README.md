@@ -2,7 +2,7 @@
 
 ## Interpretation
 
-"This post" means any forum post, blog post, comment, email, private message, or other written cmmunication which includes a link to this disclaimer.
+"This post" means any forum post, blog post, comment, email, private message, or other written communication which includes a link to this disclaimer.
 
 "I", "Myself", "me" mean Arthur Kerensa.
 
