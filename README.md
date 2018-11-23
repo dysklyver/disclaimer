@@ -2,7 +2,7 @@
 
 ## Interpretation
 
-"This post", "this material", means any forum post, blog post, comment, email, private message, or other written communication which includes a link to this disclaimer.
+"This post", means any forum post, blog post, comment, email, private message, or other written communication which includes a link to this disclaimer.
 
 "I", "myself", "me" mean Arthur Kerensa.
 
